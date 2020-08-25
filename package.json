@@ -1,8 +1,8 @@
 {
   "name": "calendar_app",
-  "description": "Project Two: Calendar App",
+  "description": "Calendar App",
   "version": "1.0.0",
-  "author": "Fullstack.io",
+  "author": "Temilorun Lajorin",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
